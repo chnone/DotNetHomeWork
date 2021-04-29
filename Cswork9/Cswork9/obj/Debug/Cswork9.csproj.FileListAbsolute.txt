@@ -1,0 +1,10 @@
+D:\vs\homework\Cswork9\Cswork9\bin\Debug\Cswork9.exe.config
+D:\vs\homework\Cswork9\Cswork9\bin\Debug\Cswork9.exe
+D:\vs\homework\Cswork9\Cswork9\bin\Debug\Cswork9.pdb
+D:\vs\homework\Cswork9\Cswork9\obj\Debug\Cswork9.csprojAssemblyReference.cache
+D:\vs\homework\Cswork9\Cswork9\obj\Debug\Cswork9.Form1.resources
+D:\vs\homework\Cswork9\Cswork9\obj\Debug\Cswork9.Properties.Resources.resources
+D:\vs\homework\Cswork9\Cswork9\obj\Debug\Cswork9.csproj.GenerateResource.cache
+D:\vs\homework\Cswork9\Cswork9\obj\Debug\Cswork9.csproj.CoreCompileInputs.cache
+D:\vs\homework\Cswork9\Cswork9\obj\Debug\Cswork9.exe
+D:\vs\homework\Cswork9\Cswork9\obj\Debug\Cswork9.pdb
