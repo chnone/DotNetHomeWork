@@ -1,0 +1,10 @@
+D:\vs\homework\Cswork7\Cayley\bin\Debug\Cayley.exe.config
+D:\vs\homework\Cswork7\Cayley\bin\Debug\Cayley.exe
+D:\vs\homework\Cswork7\Cayley\bin\Debug\Cayley.pdb
+D:\vs\homework\Cswork7\Cayley\obj\Debug\Cayley.csprojAssemblyReference.cache
+D:\vs\homework\Cswork7\Cayley\obj\Debug\Cayley.Form1.resources
+D:\vs\homework\Cswork7\Cayley\obj\Debug\Cayley.Properties.Resources.resources
+D:\vs\homework\Cswork7\Cayley\obj\Debug\Cayley.csproj.GenerateResource.cache
+D:\vs\homework\Cswork7\Cayley\obj\Debug\Cayley.csproj.CoreCompileInputs.cache
+D:\vs\homework\Cswork7\Cayley\obj\Debug\Cayley.exe
+D:\vs\homework\Cswork7\Cayley\obj\Debug\Cayley.pdb
