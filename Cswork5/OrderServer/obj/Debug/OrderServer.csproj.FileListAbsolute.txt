@@ -1,0 +1,11 @@
+C:\Users\chnone\source\repos\Cswork5\OrderServer\bin\Debug\OrderServer.exe.config
+C:\Users\chnone\source\repos\Cswork5\OrderServer\bin\Debug\OrderServer.exe
+C:\Users\chnone\source\repos\Cswork5\OrderServer\bin\Debug\OrderServer.pdb
+C:\Users\chnone\source\repos\Cswork5\OrderServer\obj\Debug\OrderServer.csprojAssemblyReference.cache
+C:\Users\chnone\source\repos\Cswork5\OrderServer\obj\Debug\OrderServer.csproj.CoreCompileInputs.cache
+C:\Users\chnone\source\repos\Cswork5\OrderServer\obj\Debug\OrderServer.exe
+C:\Users\chnone\source\repos\Cswork5\OrderServer\obj\Debug\OrderServer.pdb
+D:\vs\homework\Cswork5\OrderServer\obj\Debug\OrderServer.csprojAssemblyReference.cache
+D:\vs\homework\Cswork5\OrderServer\obj\Debug\OrderServer.csproj.CoreCompileInputs.cache
+D:\vs\homework\Cswork5\OrderServer\obj\Debug\OrderServer.exe
+D:\vs\homework\Cswork5\OrderServer\obj\Debug\OrderServer.pdb
