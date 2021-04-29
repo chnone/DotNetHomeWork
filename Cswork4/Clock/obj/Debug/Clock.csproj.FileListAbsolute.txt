@@ -1,0 +1,6 @@
+D:\vs\homework\Cswork4\Clock\bin\Debug\Clock.exe.config
+D:\vs\homework\Cswork4\Clock\bin\Debug\Clock.exe
+D:\vs\homework\Cswork4\Clock\bin\Debug\Clock.pdb
+D:\vs\homework\Cswork4\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\vs\homework\Cswork4\Clock\obj\Debug\Clock.exe
+D:\vs\homework\Cswork4\Clock\obj\Debug\Clock.pdb

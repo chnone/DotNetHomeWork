@@ -1,0 +1,7 @@
+D:\vs\homework\Cswork4\Print\bin\Debug\Print.exe.config
+D:\vs\homework\Cswork4\Print\bin\Debug\Print.exe
+D:\vs\homework\Cswork4\Print\bin\Debug\Print.pdb
+D:\vs\homework\Cswork4\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+D:\vs\homework\Cswork4\Print\obj\Debug\Print.exe
+D:\vs\homework\Cswork4\Print\obj\Debug\Print.pdb
+D:\vs\homework\Cswork4\Print\obj\Debug\Print.csprojAssemblyReference.cache
